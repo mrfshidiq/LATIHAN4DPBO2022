@@ -5,6 +5,8 @@ Janji Saya Muhammad Rafi Shidiq 2004222 mengerjakan latihan4dpbo dalam mata kuli
 
 ## Desain
 terdapat 6 file kelas dan 1 file main untuk eksekusi, desainnya sebagai berikut:
+![Desain](https://user-images.githubusercontent.com/96433779/156874876-8ae589cd-017f-483b-86b1-5d955aa84ad2.png)
+
 
 -kelas vehicle sebagai parent memiliki atribut fueltype, maxpassengers, dan method move() dimana mengubah atribut status (1 berarti kendaraan aktif beroperasi sedangkan 0 kendaran tidak aktif)
 
@@ -16,4 +18,5 @@ terdapat 6 file kelas dan 1 file main untuk eksekusi, desainnya sebagai berikut:
 
 
 ## Screenshoot
+Hasil Kompilasi
 ![python](https://user-images.githubusercontent.com/96433779/156874461-0c6eb331-8e61-4dcd-9fe3-74d94d0ac8bd.png)
